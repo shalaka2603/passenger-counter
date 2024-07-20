@@ -45,18 +45,10 @@
 <h2>JavaScript</h2>
 <p>The <code>index.js</code> file contains the logic for incrementing and saving the count. The <code>increment</code> function increases the count by one, while the <code>save</code> function saves the current count and resets it to zero.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-
 <h2>Acknowledgments</h2>
 <ul>
-    <li>Background image sourced from [source].</li>
+    <li>Background image sourced from [unplash.com].</li>
 </ul>
 
 <h2>Author</h2>
-<p><a href="https://github.com/yourusername">Your Name</a></p>
-
-Acknowledgments
-Background image sourced from [source].
-Author
-Your Name
+<p><a href="https://github.com/shalaka2603">Shalaka Kadam</a></p>
