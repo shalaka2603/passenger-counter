@@ -18,7 +18,7 @@
 <h2>Setup and Usage</h2>
 <ol>
     <li><strong>Clone the repository</strong>:
-        <pre><code>git clone https://github.com/yourusername/passenger-counter.git</code></pre>
+        <pre><code>git clone https://github.com/shalaka2603/passenger-counter.git</code></pre>
     </li>
     <li><strong>Navigate to the project directory</strong>:
         <pre><code>cd passenger-counter</code></pre>
